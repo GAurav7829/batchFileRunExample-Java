@@ -1,0 +1,2 @@
+ping -invalid-arg
+exit
